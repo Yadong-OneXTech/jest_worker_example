@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "jest-worker": "^29.7.0"
+  }
+}
